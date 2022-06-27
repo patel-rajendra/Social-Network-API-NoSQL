@@ -1,4 +1,4 @@
-# nosql-social-network-api - June 20th 2022
+# Social-Network-API-NoSQL 
 
 ## Table of Contents
 
